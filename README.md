@@ -1,5 +1,5 @@
 # hello-world
-the first project of many
+the first project of many... 
 I'm Katelyn.
 
 I started coding almost a year ago and have really enjoyed it so far. I've taken two intro courses at my school and plan to take a Python AP in the upcoming school year. 
